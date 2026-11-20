@@ -1,0 +1,150 @@
+# CUSTOMS CLEARANCE PROCEDURES FOR EXPORT OF GOODS FROM INDIA
+
+## 1. OVERVIEW OF EXPORT REGULATORY FRAMEWORK
+
+India's export regulatory framework is administered by the **Central Board of Indirect Taxes and Customs (CBIC)** in coordination with the **Directorate General of Foreign Trade (DGFT)**, Reserve Bank of India (RBI), and Export Promotion Councils (EPCs). Unlike import clearance which focuses on duty collection and import policy compliance, export clearance focuses on:
+1. Ensuring goods permitted for export under the Foreign Trade Policy.
+2. Preventing unauthorized outflows of strategic/SCOMET goods.
+3. Facilitating duty drawback, RoDTEP, and export incentive disbursement.
+4. Collecting export statistics for balance of payments accounting.
+
+Key governing statutes:
+1. **Customs Act, 1962** — Sections 40–50 govern outward manifests and export declaration.
+2. **Foreign Trade (Development and Regulation) Act, 1992** — governs export policy, IEC, and export licensing.
+3. **Foreign Trade Policy 2023–28** — current FTP governing export promotion schemes, SCOMET, and incentives.
+4. **Foreign Exchange Management Act, 1999 (FEMA)** — regulates repatriation of export proceeds.
+5. **Special Economic Zones Act, 2005** — governs zero-duty exports from SEZ units.
+
+---
+
+## 2. EXPORT DOCUMENT FRAMEWORK
+
+### 2.1 Shipping Bill — The Primary Export Declaration
+The **Shipping Bill** is the principal export document filed electronically on ICEGATE — the equivalent of the Bill of Entry for imports. It is filed by the exporter or their authorized Customs Broker before the goods are taken to the port/airport for loading.
+
+**Types of Shipping Bills**:
+1. **Free Shipping Bill (White)**: For goods exported without claim of any duty drawback or export incentive.
+2. **Drawback Shipping Bill (Green)**: For goods where the exporter claims All-Industry Rate (AIR) or Brand Rate of Duty Drawback on customs and central excise duties paid on inputs.
+3. **DEPB Shipping Bill (Yellow)**: Legacy — Duty Entitlement Pass Book Scheme (now replaced by RoDTEP).
+4. **Ex-Bond Shipping Bill**: For goods exported from customs-bonded warehouses without payment of import duties.
+5. **Special Economic Zone (SEZ) Shipping Bill**: For goods manufactured and exported from SEZ units at zero duty.
+
+### 2.2 Mandatory Documents for Export Clearance
+- [ ] **Shipping Bill (Electronic)**: Filed on ICEGATE; generates unique 7-digit Shipping Bill number.
+- [ ] **Export Invoice**: Specifying FOB/CIF/CFR value, currency, quantity, description, and buyer's address.
+- [ ] **Packing List**: Package-wise export specification.
+- [ ] **Bill of Lading / Airway Bill**: Issued by the shipping line or airline upon acceptance of cargo.
+- [ ] **Export Contract / Purchase Order**: Agreement with the foreign buyer.
+- [ ] **Certificate of Origin (COO)**: For claiming preferential tariff benefits in the destination country.
+- [ ] **Letter of Credit (L/C)**: For L/C-backed exports — documentary credits from the foreign buyer's bank.
+- [ ] **RCMC (Registration-cum-Membership Certificate)**: Issued by the relevant Export Promotion Council; mandatory for claiming export promotion benefits under FTP.
+- [ ] **GR Form / FEMA Declaration**: Foreign Exchange declaration filed on EDPMS (Export Data Processing and Monitoring System) of RBI; now automated through ICEGATE-RBI integration.
+
+---
+
+## 3. EXPORT CLEARANCE WORKFLOW — STAGE BY STAGE
+
+### STAGE 1: Pre-Shipment Documentation
+1. **IEC Verification**: The exporter's Import Export Code (IEC) must be active and linked to the DGFT portal.
+2. **Shipping Bill Filing on ICEGATE**: The Customs Broker files the Shipping Bill at least 24 hours before stuffing/loading for factory-stuffed containers (FCL) or 24 hours before cut-off for port-stuffed containers.
+3. **e-SANCHIT Upload**: Supporting documents (invoice, packing list, COO, L/C) are uploaded on e-SANCHIT for the examiner.
+
+### STAGE 2: Risk Assessment — Export RMS
+1. **Risk Management System (RMS) for Exports**: CBIC's RMS evaluates every Shipping Bill for:
+   - Commodity risk (SCOMET goods, prohibited exports).
+   - Exporter risk profile (new exporters vs. AEO-certified exporters).
+   - Declared FOB value vs. market intelligence data.
+2. **Routing Outcomes**:
+   - **Green Channel**: Low-risk consignment cleared directly for Let Export Order (LEO) without physical examination.
+   - **Yellow Channel**: Document verification without physical examination.
+   - **Red Channel**: 100% physical examination before LEO.
+
+### STAGE 3: Examination and Stuffing
+1. **Stuffing Permission**: The Customs Superintendent at the port grants stuffing permission to load cargo into the container.
+2. **Physical Examination**: For Red/Yellow channel — the Shed Appraiser verifies goods against invoice and packing list.
+3. **ARE-1 Form (Application for Removal of Excisable Goods for Export)**: For goods manufactured under central excise bond, the ARE-1 form is filed to establish the export under bond without payment of excise duty.
+
+### STAGE 4: Let Export Order (LEO)
+The **Let Export Order (LEO)** is the customs permission to load examined/assessed goods onto the vessel or aircraft. LEO is equivalent to the import-side Out-of-Charge (OOC). Once LEO is granted:
+- The shipping line issues the Bill of Lading.
+- The EGM (Export General Manifest) is filed by the carrier upon vessel departure.
+- FEMA repatriation tracking is initiated.
+
+---
+
+## 4. DUTY DRAWBACK SCHEME
+
+The Duty Drawback (DBK) Scheme under Section 74 and Section 75 of the Customs Act, 1962 provides for refund of customs duties and central excise duties paid on imported inputs that are used in the manufacture of exported goods.
+
+### 4.1 Types of Drawback
+1. **All-Industry Rate (AIR) Drawback**: Pre-fixed rates published by CBIC in the Drawback Schedule (revised annually). Rates are expressed as a percentage of FOB export value. Example: Garments (cotton) — AIR DBK = 2.0% of FOB value.
+2. **Brand Rate Drawback**: For products not covered by AIR or where actual duty incidence is higher, exporters may apply for a Brand Rate determination (Form DBK-I) with CBIC.
+
+### 4.2 Drawback Claim Process
+1. The Drawback Shipping Bill (green) is filed on ICEGATE with the AIR code.
+2. After LEO, the Drawback Cell of Customs processes the claim.
+3. Payment is made directly to the exporter's bank account via PFMS (Public Financial Management System) within **3 working days** (Green Channel) or **7 working days** (Red Channel).
+
+---
+
+## 5. RoDTEP SCHEME (Remission of Duties and Taxes on Exported Products)
+
+The **RoDTEP Scheme** (effective 1 January 2021) replaced the MEIS scheme and provides for remission of embedded taxes and levies in the export supply chain that are not rebated through any other mechanism (GST refund, IGST exemption, Drawback):
+- Embedded state taxes (electricity duty, mandi tax, transportation-related levies).
+- Embedded customs duties on fuel used in transportation.
+- Rates fixed by an Inter-Ministerial Committee and notified by CBIC per HS code.
+- **Credit Mechanism**: RoDTEP credits are issued as tradeable electronic scrips on ICEGATE. The exporter can use the scrip to pay Basic Customs Duty on imports or transfer it to another importer.
+
+---
+
+## 6. EXPORT PROMOTION CAPITAL GOODS (EPCG) SCHEME
+
+Under the EPCG Scheme (FTP 2023–28), capital goods for manufacturing export products can be imported at **0% BCD** subject to export obligation:
+- Export obligation = 6× the duty saved, to be fulfilled within 6 years.
+- Redemption: Exporters file EPCG redemption application with DGFT upon completion of export obligation.
+
+---
+
+## 7. PROHIBITIONS AND RESTRICTIONS ON EXPORTS
+
+### 7.1 Prohibited Exports
+- **Wild fauna**: All wildlife and wildlife products (Schedule I of Wildlife Protection Act).
+- **Human organs**: Absolutely prohibited for commercial export.
+- **Antiquities and heritage items**: Prohibited under Antiquities and Art Treasures Act.
+
+### 7.2 Restricted / Canalised Exports
+- **Rice (HS 1006)**: Export of non-basmati white rice periodically banned; basmati rice on MEP (Minimum Export Price) requirement.
+- **Wheat (HS 1001)**: Export banned periodically to protect domestic food security.
+- **Onions (HS 0703)**: Export restricted/MEP-based during domestic price spikes.
+- **Crude petroleum**: Canalized through ONGC/Government.
+
+### 7.3 SCOMET Exports
+All SCOMET items (refer: SCOMET list, Appendix 3) require prior export authorization from DGFT before filing the Shipping Bill. Unauthorized SCOMET exports are severely penalized under WMD Act, 2005 (see: customs_dual_use_export_control.txt).
+
+---
+
+## 8. ADVANCE AUTHORISATION SCHEME
+
+The **Advance Authorisation (AA)** Scheme allows duty-free import of raw materials, components, and consumables used in the manufacture of export products:
+- Issued by DGFT for a specific export product and input-output norms (SION — Standard Input Output Norms).
+- Actual User Condition: Goods imported under AA must be used only by the licence holder for the specified export product.
+- Export obligation: Must be fulfilled within 18 months of licence issuance.
+- **DFIA (Duty Free Import Authorisation)**: Transferable duty-free licence issued post-export completion.
+
+---
+
+## 9. KEY TIMELINES AND PENALTIES
+
+| Event | Timeline / Requirement |
+|---|---|
+| Shipping Bill filing | At least 24 hrs before loading; advance filing up to 7 days prior |
+| LEO validity | Cargo must be shipped within 15 days of LEO |
+| Bank realization (FEMA) | Export proceeds must be realized within **9 months** from date of shipment |
+| Drawback payment | 3–7 working days post-LEO |
+| EPCG Export Obligation | 6 years from EPCG licence issue date |
+| ARE-1 Form submission | Within 24 hours of goods leaving the factory |
+
+**Penalties**:
+- Failure to realize export proceeds within 9 months: FEMA contravention up to 3 times the value of foreign exchange not realized.
+- Misdeclaration of FOB value to claim higher Drawback: Recovery + interest at 15% p.a. + penalty up to 5× the excess drawback claimed.
+- SCOMET export without authorization: Criminal prosecution under WMD Act.

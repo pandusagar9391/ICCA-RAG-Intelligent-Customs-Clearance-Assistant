@@ -1,0 +1,164 @@
+# CUSTOMS CLEARANCE REGULATIONS FOR FOOD PRODUCTS AND AGRICULTURAL IMPORTS
+
+## 1. REGULATORY FRAMEWORK AND GOVERNING AUTHORITIES
+
+The import of food products, agricultural commodities, plant materials, and livestock into India is governed by a multi-agency regulatory framework involving food safety, plant quarantine, and animal health authorities acting in coordination with Indian Customs (CBIC). Importers must obtain all mandatory clearances from Partner Government Agencies (PGAs) before customs Out-of-Charge (OOC) can be granted.
+
+Governing statutes and international frameworks include:
+1. **Food Safety and Standards Act, 2006** (FSSA) — primary legislation; administered by the **Food Safety and Standards Authority of India (FSSAI)**.
+2. **Plant Quarantine (Regulation of Import into India) Order, 2003** (PQ Order) — administered by the **Directorate of Plant Protection, Quarantine and Storage (DPPQS)**.
+3. **Prevention of Food Adulteration Act, 1954** (PFA) — still applicable for pre-FSSA legacy notifications.
+4. **Essential Commodities Act, 1955** — governs import of essential food commodities (wheat, rice, edible oils, sugar, pulses) through canalizing agencies.
+5. **Livestock Importation Act, 1898** — governs import of live animals, animal products, and veterinary biologics.
+6. **WTO Agreement on the Application of Sanitary and Phytosanitary Measures (SPS Agreement)** — India's international obligations for science-based import restrictions.
+7. **International Plant Protection Convention (IPPC)** — phytosanitary standards for preventing spread of plant pests and diseases.
+8. **World Organisation for Animal Health (WOAH/OIE)** — international standards for safe animal and animal product trade.
+
+---
+
+## 2. HARMONIZED SYSTEM CLASSIFICATIONS
+
+### 2.1 Live Animals (Chapter 01)
+- **HS 0101**: Live horses, asses, mules, and hinnies
+- **HS 0102**: Live bovine animals (cattle)
+- **HS 0103**: Live swine
+- **HS 0105**: Live poultry (fowls of species Gallus domesticus, ducks, geese, turkeys)
+
+### 2.2 Meat and Animal Products (Chapters 02–05)
+- **HS 0201/0202**: Meat of bovine animals (fresh/chilled/frozen)
+- **HS 0207**: Meat and offal of poultry
+- **HS 0302/0303**: Fresh/frozen fish and seafood
+
+### 2.3 Dairy Products (Chapter 04)
+- **HS 0401**: Milk and cream, not concentrated
+- **HS 0402**: Milk and cream, concentrated or sweetened
+- **HS 0406**: Cheese and curd
+
+### 2.4 Cereals and Grains (Chapter 10)
+- **HS 1001**: Wheat and meslin — **restricted import; canalized through STC/MMTC**
+- **HS 1006**: Rice — import policy: restricted/free depending on notification
+- **HS 1005**: Maize (corn)
+- **HS 1507–1515**: Vegetable oils (soyabean, palm, sunflower, groundnut oils)
+
+### 2.5 Processed Food and Beverages (Chapters 16–22)
+- **HS 1602**: Other prepared/preserved meat products
+- **HS 1901**: Malt extract; food preparations of flour, starch
+- **HS 2101**: Extracts of coffee, tea, maté
+- **HS 2106**: Food preparations not elsewhere specified
+- **HS 2202**: Waters (including mineral waters), lemonade, flavoured water, non-alcoholic beverages
+- **HS 2203–2208**: Beer, wine, spirits, and other alcoholic beverages
+
+### 2.6 Fruits, Vegetables, and Plants (Chapters 06–14)
+- **HS 0602**: Other live plants (cuttings, slips, mushroom spawn)
+- **HS 0701–0714**: Vegetables (potatoes, onions, tomatoes, leguminous vegetables)
+- **HS 0801–0814**: Fruits (coconuts, cashew, citrus, grapes, apples, mangoes)
+
+---
+
+## 3. FSSAI IMPORT CLEARANCE PROCEDURES
+
+### 3.1 FSSAI No Objection Certificate (NOC) / Import Clearance
+Under the FSSAI Import Regulations (2017), all food products imported into India require prior clearance from FSSAI before customs release. The procedure involves:
+
+1. **Prior Intimation**: Importer must file a prior intimation on the FSSAI Food Import Clearance System (FICS) portal at least **5 working days** before the expected date of arrival for perishable goods and **15 days** for non-perishable goods.
+2. **Document Submission on FICS Portal**:
+   - Valid FSSAI Import Licence / Central Licence Number.
+   - FSSAI-compliant label (or proposed label) for each product.
+   - Certificate of Analysis (COA) from an NABL/FSSAI-recognized accredited laboratory.
+   - Health Certificate from the competent authority of the exporting country confirming the food product is safe for human consumption and meets FSSAI standards.
+3. **Food Safety Clearance Order**: FSSAI Authorized Officer issues an electronic Food Safety Clearance Order, which is forwarded to customs via ICEGATE PCS integration.
+
+### 3.2 FSSAI Standards and Labelling Requirements
+All imported packaged food products must comply with Food Safety and Standards (Labelling and Display) Regulations, 2020:
+- Label must be in **English or Hindi** in Devanagari script.
+- Must contain: Common name of food, List of ingredients in descending order of weight, Nutritional information per 100g/ml, Allergen declarations (peanuts, milk, eggs, wheat, soy, fish, shellfish, tree nuts).
+- **Vegetarian/Non-Vegetarian Logo**: Green circle (vegetarian) or brown circle (non-vegetarian) mandatory.
+- **Country of Origin**: Mandatory declaration.
+- **Best Before / Expiry Date**: Mandatory. Minimum shelf life at time of import = 60% of total shelf life or 1 year (whichever is less).
+- **Importer's Name and Address**: FSSAI-licensed Indian importer must be declared on label.
+
+### 3.3 FSSAI Import Licence
+Every importer of food products must hold a valid **FSSAI Central Import Licence** (14-digit licence number) issued by FSSAI headquarters. The licence is renewed annually and specifies the categories of food authorized for import.
+
+---
+
+## 4. PLANT QUARANTINE CLEARANCE
+
+### 4.1 Phytosanitary Certificate
+Under the PQ Order 2003, all consignments of plants, plant parts, fruits, vegetables, seeds, and plant propagating material must be accompanied by a **Phytosanitary Certificate** issued by the **National Plant Protection Organisation (NPPO)** of the exporting country. The certificate must confirm:
+- The consignment has been inspected and found free from quarantine pests and diseases as specified in India's list of Regulated Articles.
+- Appropriate phytosanitary treatment has been applied where required (e.g., methyl bromide fumigation, cold treatment, heat treatment).
+- The consignment complies with India's phytosanitary import requirements.
+
+### 4.2 Plant Quarantine Inspection at Port of Entry
+Upon arrival, plant material consignments are physically inspected by **Plant Quarantine Officers (PQO)** at the port of entry:
+1. **Document Verification**: Phytosanitary Certificate authenticity, country of origin, commodity description.
+2. **Visual Inspection**: Random sampling of packages to check for visible infestation by insects, fungi, bacteria, or nematodes.
+3. **Laboratory Testing**: Suspect samples are sent to Plant Quarantine Laboratories (Faridabad, Mumbai, Chennai, Kolkata) for pest identification.
+4. **Fumigation**: If regulated pests are detected at sub-threshold levels, the consignment may be cleared after approved phytosanitary treatment (fumigation) under PQO supervision.
+5. **Rejection/Destruction**: Consignments with prohibited pests or non-compliant certificates are detained and either re-exported at importer's expense or destroyed under PQO supervision within 72 hours.
+
+### 4.3 Import Permit for Regulated Articles
+Seeds, planting material, and specified high-risk commodities (e.g., soil, unprocessed wood, cotton with seeds) require an **Import Permit** issued by the NPPO of India (DPPQS) prior to shipment. The import permit specifies phytosanitary conditions that must be met before export.
+
+---
+
+## 5. ANIMAL AND VETERINARY QUARANTINE
+
+### 5.1 Veterinary Import Permit and Health Certificate
+Live animals and animal products (meat, dairy, eggs, fish, animal feed) require:
+1. **Import Permit**: Issued by the **Animal Quarantine and Certification Service (AQCS)** under DPPQS, Ministry of Agriculture, prior to shipment. The permit specifies the port of entry, authorized quantity, and veterinary health conditions.
+2. **Veterinary Health Certificate (VHC)**: Issued by the official veterinarian of the exporting country's competent authority, certifying:
+   - Animals/products are free from notifiable diseases (Foot and Mouth Disease, Avian Influenza H5N1, Classical Swine Fever, etc.).
+   - Origin farms/establishments are free from specified diseases for defined periods.
+   - Appropriate testing (serology, PCR) has been conducted with negative results.
+3. **Animal Quarantine Inspection**: Live animals are quarantined in AQCS-approved Animal Quarantine Stations for mandatory observation periods (typically 30 days for cattle, 21 days for poultry, 10 days for fish/seafood inspection).
+
+---
+
+## 6. CANALISED AND RESTRICTED IMPORTS
+
+### 6.1 Canalised Food Commodities
+The following food imports are **canalised** — meaning they can only be imported through designated government agencies:
+- **Wheat (HS 1001)**: Canalized through State Trading Corporation (STC) or MMTC Limited.
+- **Pulses (HS 0713)**: Permitted to both government and private importers as per annual import quota notifications.
+- **Edible Oils (HS 1507–1515)**: Freely importable at concessional BCD of 5% (subject to periodic modifications).
+
+### 6.2 Restricted / Prohibited Agricultural Imports
+- **Beef and veal**: Prohibited for import into most Indian states given religious and cultural sensitivities; import of bovine meat tallow and gelatin is restricted.
+- **Genetically Modified (GM) food**: Import of GM food for human consumption not approved; GM food imports for research/trials require GEAC (Genetic Engineering Appraisal Committee) clearance.
+- **Poppy seeds**: Import restricted; permit required from NDPS Commissioner.
+- **Soil and growing media**: Prohibited import without specific import permit from NPPO.
+
+---
+
+## 7. DUTY STRUCTURE FOR AGRICULTURAL IMPORTS
+
+| HS Category | Description | BCD | IGST | Notes |
+|---|---|---|---|---|
+| HS 1001 | Wheat | 50% (or as notified) | 0% | High protective duty; subject to TRQ |
+| HS 1006 | Rice | 70–100% | 5% | Restricted/free depending on govt. notification |
+| HS 0401 | Milk (liquid) | 30–60% | 0% | High BCD to protect domestic dairy |
+| HS 0406 | Cheese | 30% | 12% | — |
+| HS 1507 | Soyabean oil | 45% | 5% | Concessional duty via notifications |
+| HS 2203 | Beer | 100% | 28% | High duty + Compensation Cess |
+| HS 2208 | Spirits (Whisky/Vodka) | 150% | 28% | Highest duty category |
+| HS 0302 | Fresh fish | 30% | 5% | — |
+| HS 0806 | Fresh grapes | 30% | 5% | — |
+
+---
+
+## 8. MANDATORY DOCUMENT CHECKLIST FOR FOOD AND AGRICULTURAL IMPORTS
+
+- [ ] **Bill of Entry (Form I)**: ICEGATE electronic filing with correct HS classification
+- [ ] **FSSAI Import Licence**: 14-digit central licence of the importer
+- [ ] **Food Safety Clearance Order (FICS)**: Electronically generated by FSSAI after document review
+- [ ] **Phytosanitary Certificate**: For all plants, fruits, vegetables, seeds (issued by exporting country NPPO)
+- [ ] **Veterinary Health Certificate (VHC)**: For live animals and animal products (meat, dairy, eggs)
+- [ ] **Health Certificate**: For processed food — issued by competent authority of exporting country
+- [ ] **Certificate of Analysis (COA)**: Laboratory test results confirming FSSAI compliance
+- [ ] **FSSAI-Compliant Label / Proposed Label**: For all packaged food products
+- [ ] **Certificate of Origin**: For preferential duty claims under ASEAN/SAFTA/bilateral FTAs
+- [ ] **Commercial Invoice**: Including manufacturing date, expiry date, batch numbers
+- [ ] **Import Permit (DPPQS/AQCS)**: For regulated plant material and live animals
+- [ ] **Animal Quarantine Clearance**: For live animals and animal products (issued by AQCS)

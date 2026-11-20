@@ -1,0 +1,39 @@
+# ═════════════════════════════════════════════════════════════════════════════
+# INDIAN CUSTOMS REGULATORY GUIDE: HARMONIZED SYSTEM (HS) CODE FUNDAMENTALS
+# Document ID: customs_hs_code_classification_fundamentals
+# Authority: World Customs Organization (WCO) & Central Board of Indirect Taxes and Customs (CBIC)
+# Statutory Basis: Customs Tariff Act, 1975 & Foreign Trade (Development & Regulation) Act, 1992
+# ═════════════════════════════════════════════════════════════════════════════
+
+## 1. WHAT IS AN HS CODE (HARMONIZED SYSTEM CODE)?
+The Harmonized Commodity Description and Coding System, commonly known as the **Harmonized System (HS)** or **HS Code**, is a standardized numerical method developed by the World Customs Organization (WCO) to classify traded products worldwide. Over 200 countries and customs territories use the HS as the basis for:
+- Customs tariffs and calculation of import/export duties.
+- Collection of international trade statistics.
+- Enforcement of trade policies, rules of origin, import restrictions, and quotas.
+- Monitoring of controlled, hazardous, and dual-use goods.
+
+## 2. STRUCTURE AND HIERARCHY OF HS CODES
+The international Harmonized System uses a hierarchical 6-digit numerical structure divided into 21 Sections and 98 Chapters:
+- **First 2 digits (Chapter):** Identifies the broad category of the commodity (e.g., Chapter 84 covers Nuclear reactors, boilers, machinery, and mechanical appliances; Chapter 29 covers Organic chemicals).
+- **First 4 digits (Heading):** Specifies the commodity group within the chapter (e.g., Heading 8429 covers Self-propelled bulldozers, angledozers, graders, levellers, excavators).
+- **First 6 digits (Subheading):** Provides a more detailed description of the commodity recognized internationally (e.g., Subheading 8429.51 covers Front-end shovel loaders).
+
+## 3. INDIAN CUSTOMS 8-DIGIT ITC-HS CODING SYSTEM
+In India, the Directorate General of Foreign Trade (DGFT) and the Central Board of Indirect Taxes and Customs (CBIC) extend the 6-digit WCO system into an **8-digit classification** known as the **Indian Trade Classification (Harmonized System) - ITC(HS)**:
+- **Digits 1 to 2:** Chapter
+- **Digits 3 to 4:** Heading
+- **Digits 5 to 6:** Subheading (International Level)
+- **Digits 7 to 8:** Tariff Item (National Level) - specific to India for precise duty assessment and policy conditions.
+
+Example: **HS 8471.30.10**
+- Chapter 84: Machinery and mechanical appliances
+- Heading 8471: Automatic data processing machines and units
+- Subheading 8471.30: Portable automatic data processing machines weighing not more than 10 kg
+- Tariff Item 8471.30.10: Personal computers (laptops, notebooks, palmtops)
+
+## 4. PURPOSE AND ROLE IN CUSTOMS CLEARANCE
+Correct HS code classification is legally mandatory under Section 46 of the Customs Act, 1962:
+1. **Duty Rate Determination:** Every 8-digit tariff item corresponds to specific Basic Customs Duty (BCD), Integrated Goods and Services Tax (IGST), Social Welfare Surcharge (SWS), and Agriculture Infrastructure and Development Cess (AIDC) in the First Schedule to the Customs Tariff Act, 1975.
+2. **Policy Compliance:** The ITC(HS) designates import policy status as **Free**, **Restricted** (requiring a DGFT Import Authorization / License), or **Prohibited**.
+3. **PGA Clearances:** The HS code dictates which Partner Government Agency (PGA) must grant a Non-Objection Certificate (NOC) on ICEGATE, such as FSSAI for food (Chapters 02-24), CDSCO for medical devices (Chapter 90), or CPCB/MoEFCC for chemicals (Chapters 28-29).
+4. **Mandatory Declaration:** The importer must declare the correct 8-digit HS code in the Bill of Entry (BE). Misclassification to evade duties attracts penal liabilities under Section 111(m) and Section 112 of the Customs Act, 1962.

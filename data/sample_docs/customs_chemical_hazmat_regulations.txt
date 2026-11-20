@@ -1,0 +1,74 @@
+# CUSTOMS CLEARANCE REGULATIONS FOR CHEMICAL AND HAZARDOUS MATERIALS (HAZMAT) IMPORTS
+
+## 1. OBJECTIVE AND REGULATORY FRAMEWORK
+The clearance of chemicals, hazardous substances, and dangerous goods at customs sea ports, air cargo complexes, and inland container depots is governed by strict domestic environmental laws and international safety conventions. Non-compliance, incorrect classification, or failure to disclose chemical properties exposes importers and customs brokers to stringent penalties under the Customs Act, 1962, the Environment (Protection) Act, 1986, and international transport treaties.
+
+Key governing statutes and international conventions include:
+1. **Manufacture, Storage and Import of Hazardous Chemical (MSIHC) Rules, 1989** (amended 2000).
+2. **Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016**.
+3. **Insecticides Act, 1968** and **Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985**.
+4. **International Maritime Dangerous Goods (IMDG) Code** (governing maritime freight under IMO).
+5. **ICAO Technical Instructions for the Safe Transport of Dangerous Goods by Air** / IATA Dangerous Goods Regulations (DGR).
+6. **Globally Harmonized System of Classification and Labelling of Chemicals (GHS)**.
+
+---
+
+## 2. MANDATORY MATERIAL SAFETY DATA SHEET (MSDS) REQUIREMENTS
+For any chemical consignment (pure substance, organic synthesis, mixture, solvent, or formulation), the importer must submit a manufacturer-certified **Material Safety Data Sheet (MSDS) / Safety Data Sheet (SDS)** adhering to the **16-Section GHS Standard Format**:
+
+- **Section 1**: Identification (chemical name, CAS registry number, EC number, intended use, manufacturer emergency contact 24/7).
+- **Section 2**: Hazard(s) Identification (GHS classification, signal words: DANGER / WARNING, hazard statements, pictograms).
+- **Section 3**: Composition / Information on Ingredients (exact concentration percentages, impurities, stabilizers).
+- **Section 4**: First-Aid Measures (inhalation, skin contact, eye contact, ingestion protocols).
+- **Section 5**: Fire-Fighting Measures (suitable extinguishing media, specific hazards arising from chemical combustion).
+- **Section 6**: Accidental Release Measures (containment procedures, personal protective equipment, environmental precautions).
+- **Section 7**: Handling and Storage (safe handling guidelines, incompatible storage conditions, temperature limits).
+- **Section 8**: Exposure Controls / Personal Protection (OSHA PEL, ACGIH TLV, required PPE).
+- **Section 9**: Physical and Chemical Properties (appearance, flash point, boiling point, vapor pressure, pH, explosive limits).
+- **Section 10**: Stability and Reactivity (chemical stability, hazardous decomposition products, polymerization risk).
+- **Section 11**: Toxicological Information (acute toxicity $LD_{50}/LC_{50}$, skin corrosion, carcinogenicity).
+- **Section 12**: Ecological Information (ecotoxicity, persistence and degradability, bioaccumulative potential).
+- **Section 13**: Disposal Considerations (waste classification, appropriate disposal methodologies).
+- **Section 14**: Transport Information (**UN Number**, Proper Shipping Name, **IMDG / ICAO Hazard Class**, Packing Group I/II/III, Marine Pollutant status).
+- **Section 15**: Regulatory Information (national/international chemical inventory status, TSCA, REACH, Indian MSIHC schedule).
+- **Section 16**: Other Information (date of preparation, revision status, disclaimer).
+
+*Compliance Rule*: The MSDS must be dated within the last 3 years and must match the chemical batch numbers indicated on the commercial invoice and manufacturer Certificate of Analysis (COA).
+
+---
+
+## 3. INTERNATIONAL TRANSPORTATION AND PACKAGING MANDATES (IMO / ICAO)
+
+### 3.1 IMO / IMDG Code Maritime Compliance
+- **Dangerous Goods Declaration (DGD)**: Shipper must issue a signed Multimodal Dangerous Goods Form specifying UN Number, Proper Shipping Name (PSN), Class (Class 1 to Class 9), Subsidiary Risks, Packing Group (PG I: High Danger, PG II: Medium Danger, PG III: Low Danger), and Flash Point (in °C closed cup for flammable liquids).
+- **Container Packing Certificate (CPC)**: Required for Full Container Loads (FCL) confirming cargo segregation compliance in accordance with IMDG Code Chapter 7.2.
+- **Port Health and Dangerous Cargo Manifest (DCM)**: Carrier must file DCM with the port authority and customs boarding officers at least 48 hours prior to vessel berthing.
+
+### 3.2 ICAO / IATA Air Cargo Compliance
+- Consignments must not exceed maximum net quantity per package for passenger aircraft; cargo-aircraft only (CAO) labels must be affixed when applicable.
+- UN Specification Packaging: Drums, jerricans, and composite packagings must bear embossed UN specification marks (e.g., `UN 1A1/Y1.4/150/23/NL/VL824`) certified to have passed drop, leakproofness, internal pressure, and stacking tests.
+
+---
+
+## 4. STATUTORY NOCs AND POLLUTION CONTROL BOARD APPROVALS
+
+### 4.1 Prior Informed Consent and Transboundary Movement Clearance
+- Importers of hazardous waste or recyclable chemical residues must obtain **Prior Informed Consent (PIC)** and transboundary movement authorization from the Ministry of Environment, Forest and Climate Change (MoEFCC) under the Basel Convention.
+- Clearance through customs requires production of Form 6 (Transboundary Movement Tracking) and valid registration with the Central Pollution Control Board (CPCB) as an authorized recycler or pre-processor.
+
+### 4.2 State Pollution Control Board (SPCB) Consent to Operate (CTO)
+- Importers consuming hazardous raw chemicals in manufacturing facilities must produce a valid **Consent to Operate (CTO)** and authorization under Hazardous Waste Management Rules issued by the jurisdictional SPCB.
+- For toxic industrial chemicals listed under Schedule 1, 2, or 3 of the MSIHC Rules 1989, the importer must submit a notification of import to the State Pollution Control Board at least 30 days prior to cargo arrival at the port.
+
+### 4.3 Chemical Weapon Convention (CWC) Compliance
+- Chemicals listed under Schedule 1, Schedule 2, and Schedule 3 of the Chemical Weapons Convention Act, 2000 require an explicit non-transfer and peaceful industrial use declaration and registration with the National Authority, CWC (NACWC).
+
+---
+
+## 5. CUSTOMS EXAMINATION AND TESTING PROTOCOL (CRCL)
+1. **Compulsory Sampling for Lab Testing**: Customs appraising officers will order chemical sampling under Section 144 of the Customs Act for testing at the Central Revenues Control Laboratory (CRCL) or accredited NABL laboratory to verify:
+   - True chemical identity and CAS registry number against declared description.
+   - Purity percentage and presence of restricted additives or heavy metals.
+   - Verification of flash point, distillation range, and moisture content.
+2. **Provisional Assessment under Section 18**: Where laboratory testing requires extended duration (exceeding 48 hours), the importer may request provisional clearance upon execution of a test bond with 20% to 100% bank guarantee covering potential duty differential and fine/penalties.
+3. **Special Hazmat Storage**: While awaiting clearance, hazardous containers must be transferred immediately to specialized, licensed hazardous cargo cells within the port terminal or container freight station (CFS), equipped with fire suppression systems and secondary containment.

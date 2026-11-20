@@ -1,0 +1,52 @@
+# Environment variables & secrets (CRITICAL: Never commit API keys)
+.env
+.env.*
+!.env.example
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Temporary extraction files
+paper_text.txt
+presentation_text.txt
+
+# Local vector indices & cached storage (preserve schema, ignore runtime indices)
+data/storage/*.pkl
+data/storage/*.bin
+data/storage/*.faiss
+data/storage/*.index
+
+# Logs
+*.log
+logs/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini

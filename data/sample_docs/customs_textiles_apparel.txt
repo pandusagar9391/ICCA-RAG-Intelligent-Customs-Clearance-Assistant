@@ -1,0 +1,133 @@
+# CUSTOMS CLEARANCE REGULATIONS FOR TEXTILES AND APPAREL IMPORTS
+
+## 1. REGULATORY OVERVIEW
+
+India's textile sector — encompassing cotton, synthetic fibres, wool, silk, and man-made fibre products — is one of the most import-sensitive industries. While India is a major textile exporter, specific categories of finished garments, technical textiles, and specialty fibres are imported under a carefully regulated framework involving Customs (CBIC), the Textile Commissioner, and in several cases anti-dumping and countervailing duty orders.
+
+Key governing statutes:
+1. **Customs Act, 1962** — primary import regulation.
+2. **Textile Committee Act, 1963** — mandates Textile Committee testing and certification for specified textile imports.
+3. **Foreign Trade Policy (FTP)** — Import policy classification (Free/Restricted/Prohibited) for textile HS headings.
+4. **BIS Act, 2016** — mandatory quality standards for certain technical textiles.
+5. **Anti-Dumping Rules, 1995** (under Customs Tariff Act, 1975) — provides for imposition of Anti-Dumping Duty (ADD) on dumped textile imports.
+
+---
+
+## 2. HARMONIZED SYSTEM CLASSIFICATIONS FOR TEXTILES
+
+### Section XI — Textiles and Textile Articles (Chapters 50–63)
+
+| HS Chapter | Description |
+|---|---|
+| Chapter 50 | Silk (raw silk, silk yarn, woven silk fabrics) |
+| Chapter 51 | Wool, fine/coarse animal hair; horsehair yarn and woven fabric |
+| Chapter 52 | Cotton (raw cotton, cotton yarn, cotton fabrics — the largest import category) |
+| Chapter 53 | Other vegetable textile fibres (jute, flax, hemp, coir) |
+| Chapter 54 | Man-made filaments (polyester filament yarn, nylon, viscose) |
+| Chapter 55 | Man-made staple fibres (polyester staple fibre, acrylic staple fibre) |
+| Chapter 56 | Wadding, felt, nonwovens; special yarns, twine, cordage, ropes, cables |
+| Chapter 57 | Carpets and other textile floor coverings |
+| Chapter 58 | Special woven fabrics (velvet, terry fabrics, lace, embroidery) |
+| Chapter 59 | Impregnated/coated/covered textile fabrics; technical textiles |
+| Chapter 60 | Knitted or crocheted fabrics |
+| **Chapter 61** | **Articles of apparel and clothing accessories, knitted or crocheted** |
+| **Chapter 62** | **Articles of apparel and clothing accessories, not knitted or crocheted (woven)** |
+| Chapter 63 | Other made up textile articles; sets; worn clothing and textile rags |
+
+---
+
+## 3. TEXTILE COMMITTEE REGISTRATION AND TESTING
+
+### 3.1 Textile Committee (TC) Mandatory Inspection
+Under the Textile Committee Act, 1963 and the Textile Committee (Inspection of Textile and Textile Machinery) Regulations, specified categories of imported textiles require mandatory pre-shipment or port-of-entry inspection and certification by the **Textile Committee (TC)**, Ministry of Textiles.
+
+**Categories requiring TC inspection**:
+- Silk and silk blended fabrics (HS 5007) — to prevent mislabelling of synthetic blends as pure silk.
+- Wool and wool blended fabrics (HS 5111, 5112) — composition testing for declared wool percentage.
+- Cotton fabrics (HS 5208–5212) — thread count, weight per square metre verification.
+- Man-made fibre fabrics — quality and composition verification.
+- Readymade garments (HS 6101–6117, HS 6201–6217) — fabric composition, sizing, care label compliance.
+
+### 3.2 Textile Research and Registration Certificate (TRC)
+The importing entity must obtain a **Textile Research and Registration Certificate (TRC)** from the Textile Committee:
+1. **Pre-Shipment Inspection**: The overseas manufacturer or the Indian importer arranges TC-empanelled inspection agency to test fabric samples at origin.
+2. **Port-of-Entry Testing**: Upon arrival, the consignment is sampled at the customs examination shed and samples are tested at Textile Committee laboratories in Mumbai (Worli), Ahmedabad, Coimbatore, or Kolkata.
+3. **Quality Certification**: TC issues quality certification confirming the imported textile meets declared composition, weight, and dimensional stability standards.
+4. **Mismatch Penalty**: If the actual composition differs from the declared composition by more than the permitted tolerance (typically ±3% for fibre content), the consignment is detained and misdeclaration penalty is levied.
+
+---
+
+## 4. BIS QUALITY CONTROL FOR TECHNICAL TEXTILES
+
+Certain technical textile products are notified under BIS Quality Control Orders (QCO):
+- **Safety Footwear** (HS 6403/6405): BIS IS 15298 mandatory certification.
+- **High Visibility Clothing** (HS 6210): BIS IS 15809 mandatory certification for reflective safety garments.
+- **Jute Products** (HS 5305, 5310): Jute Commissioner's NOC for specified jute product imports.
+- **Nonwoven fabrics** used in medical/hygiene applications (HS 5603): BIS certification required under relevant IS standards.
+
+---
+
+## 5. ANTI-DUMPING AND COUNTERVAILING DUTIES
+
+India's Directorate General of Trade Remedies (DGTR), under the Ministry of Commerce, has imposed Anti-Dumping Duty (ADD) and Countervailing Duties (CVD) on numerous textile products imported from China, Bangladesh, Vietnam, and other countries. As of the latest notifications:
+
+### Key Anti-Dumping Duty Orders on Textiles
+- **Polyester Staple Fibre (HS 5503.20)** from China, Korea, Taiwan: ADD in the range of USD 0.08 to USD 0.26 per kg.
+- **Viscose Staple Fibre (HS 5504.10)** from Indonesia, China, Austria: ADD up to USD 0.19 per kg.
+- **Nylon Tyre Cord Fabric (HS 5902.10)** from China: ADD of USD 0.90 per kg.
+- **Woven Fabrics of Polyester (HS 5407)** from China: ADD in multiple review proceedings.
+- **Denim Fabrics (HS 5209.42, 5211.42)** from China: ADD in force.
+- **Readymade Garments (HS 6101–6117)** from Bangladesh: Exempt from ADD under SAFTA; eligible for 0% BCD subject to Rules of Origin compliance (minimum 30% value addition in Bangladesh).
+
+**How ADD is applied at Customs**:
+1. The Bill of Entry must declare the country of origin correctly.
+2. CBIC officers verify the DGTR notification for applicable ADD rates.
+3. ADD is levied in addition to BCD, SWS, and IGST on the assessable value.
+4. Importers may apply to DGTR for Individual Duty Suspension if they can demonstrate higher prices than the floor price.
+
+---
+
+## 6. DUTY STRUCTURE FOR TEXTILES AND APPAREL
+
+| Category | HS Chapter | BCD | IGST | Notes |
+|---|---|---|---|---|
+| Raw cotton (not carded) | HS 5201 | 0% | 0% | Key input; duty-free to protect textile mills |
+| Cotton yarn | HS 5205–5207 | 10% | 12% | — |
+| Cotton woven fabric | HS 5208–5212 | 20% | 5% | Protective duty on fabric |
+| Synthetic filament yarn | HS 5402 | 5% | 12% | Input for domestic mills |
+| Polyester staple fibre | HS 5503 | 7.5% + ADD | 12% | ADD on origin-specific imports |
+| Knitted garments (Chapter 61) | HS 61xx | 20% | 12% | High protective tariff |
+| Woven garments (Chapter 62) | HS 62xx | 20% | 12% | High protective tariff |
+| Carpets | HS 5701–5705 | 25% | 12% | — |
+| Technical textiles (HS 5603/5911) | HS 59xx | 10–20% | 12–18% | Varies by end-use |
+
+---
+
+## 7. RULES OF ORIGIN FOR FTA TEXTILE IMPORTS
+
+India's Free Trade Agreements impose specific **textile Rules of Origin (RoO)** to prevent trade deflection:
+
+### ASEAN-India FTA (AIFTA)
+- Garments (HS 61–62): **Yarn-Forward Rule** — yarn must be produced in ASEAN or India; fabric formation + garment manufacture must occur in ASEAN. Certificate of Origin Form AI required.
+- Fabric: **Single Transformation Rule** acceptable for certain HS headings.
+
+### South Asian Free Trade Agreement (SAFTA)
+- Bangladesh, Sri Lanka, Nepal: Concessions for readymade garments subject to minimum value addition of 30% in the exporting country. COO Form SAFTA required.
+
+### India-UAE CEPA (2022)
+- Garments from UAE: 0% BCD subject to Rules of Origin compliance; Form ICEGC COO required.
+
+---
+
+## 8. MANDATORY DOCUMENT CHECKLIST FOR TEXTILE AND APPAREL IMPORTS
+
+- [ ] **Bill of Entry (Form I)**: 8-digit HS code classification accuracy critical for duty calculation
+- [ ] **Commercial Invoice**: Fabric composition declared (e.g., "60% cotton, 40% polyester"), GSM (grams per sq. metre), country of manufacture
+- [ ] **Packing List**: Piece count, roll length, net/gross weight per bale or carton
+- [ ] **Textile Committee Certificate / TRC**: For notified categories requiring TC inspection
+- [ ] **Certificate of Origin (COO)**: Form AI (ASEAN), Form SAFTA, or non-preferential COO as applicable
+- [ ] **Anti-Dumping Duty Compliance Declaration**: Country of origin declaration with supporting factory/manufacturer details
+- [ ] **BIS Certification**: For technical textiles under BIS QCO notifications
+- [ ] **Care Label Compliance**: Garments must bear washing instructions; labels in English or Hindi
+- [ ] **Bill of Lading / Airway Bill**: Carrier document with container/ULD details
+- [ ] **Country of Origin Certificate**: Verified by Chamber of Commerce or Trade Ministry of exporting country

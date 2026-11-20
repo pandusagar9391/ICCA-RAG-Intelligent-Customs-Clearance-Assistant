@@ -1,0 +1,62 @@
+# REGULATORY FRAMEWORK FOR SCOMET AND DUAL-USE GOODS CONTROL
+
+## 1. DEFINITION AND STRATEGIC OBJECTIVE
+Dual-use items refer to goods, software, technologies, and chemicals that possess legitimate civilian and industrial applications but can also be adapted, diverted, or utilized in the design, development, production, or delivery of weapons of mass destruction (WMD), chemical/biological weapons, missile delivery systems, or conventional military systems.
+
+In accordance with international export control regimes—namely the **Wassenaar Arrangement**, the **Nuclear Suppliers Group (NSG)**, the **Australia Group**, and the **Missile Technology Control Regime (MTCR)**—India regulates dual-use goods through the **SCOMET** list (Special Chemicals, Organisms, Materials, Equipment and Technologies), published under Appendix 3 to Schedule 2 of the Indian Trade Classification (Harmonized System) ITC(HS).
+
+---
+
+## 2. SCOMET CATEGORIZATION SYSTEM
+Items listed under SCOMET are classified into nine distinct strategic categories:
+
+- **Category 0**: Nuclear materials, nuclear-related facilities, equipment, and related technologies (strictly controlled by the Department of Atomic Energy - DAE).
+- **Category 1**: Toxic chemical agents and other chemicals (precursors to chemical weapons, binary chemical systems).
+- **Category 2**: Micro-organisms, toxins, and genetic elements (biological agents, pathogens, containment equipment).
+- **Category 3**: Materials, material processing equipment, and related technologies (advanced composites, filament winding machines, specialized alloys, maraging steel).
+- **Category 4**: Nuclear-related other equipment, assemblies, components, test and production equipment (dual-use nuclear fuel cycle items).
+- **Category 5**: Aerospace systems, equipment, launch vehicles, satellites, unmanned aerial vehicles (UAVs), and rocket systems.
+- **Category 6**: Munitions List (military items, small arms, armored vehicles, defense equipment).
+- **Category 7**: Electronics, computers, and telecommunications:
+  - High-performance computing equipment exceeding composite theoretical performance limits (Weighted Peak Performance in TFLOPS).
+  - Cryptographic equipment, automated network eavesdropping tools, high-speed signal processors.
+- **Category 8**: Special Materials and related equipment, sensors and lasers, navigation and avionics, marine systems, and propulsion (under the Wassenaar Arrangement dual-use baseline).
+
+---
+
+## 3. DGFT LICENSING AND AUTHORIZATION PROCEDURES
+The export, transit, transshipment, or re-export of any item listed under SCOMET is strictly prohibited unless authorized under a specific license issued by the **Directorate General of Foreign Trade (DGFT)**, Ministry of Commerce and Industry.
+
+### 3.1 Licensing Application Requirements:
+1. **Online Filing**: Application submitted electronically via DGFT portal accompanied by technical data sheets, specifications, and CAD/block diagrams.
+2. **End-User Certificate (EUC)**: The overseas consignee and ultimate end-user must provide a certified End-User Certificate in **Appendix 2S(i)** or **Appendix 2S(ii)** format. The EUC must explicitly certify:
+   - Specific intended civilian end-use and installation site address.
+   - Commitment that the item will not be used for any nuclear, biological, chemical weapon, or missile purpose.
+   - Non-transfer covenant: Goods will not be re-exported, transferred, leased, or diverted to any third party or country without prior written authorization from the Government of India.
+3. **Consular Legalization / Apostille**: For high-risk jurisdictions, the EUC must be verified by the diplomatic mission of India in the destination country.
+4. **Inter-Ministerial Working Group (IMWG)**: SCOMET license applications undergo multi-agency scrutiny involving the Ministry of External Affairs (MEA), Ministry of Defence (MoD), Department of Atomic Energy (DAE), and Intelligence agencies before approval.
+
+### 3.2 Global Authorization for Intra-Company Transfers (GAICT)
+Enterprises with an accredited **Internal Compliance Program (ICP)** may apply for GAICT, permitting recurrent shipments of dual-use software, components, and technology to parent companies or foreign subsidiaries under a single 3-year authorization.
+
+---
+
+## 4. CATCH-ALL CONTROLS AND INTENT-BASED SCRUTINY
+Even if an item is **not explicitly listed** in the SCOMET schedule, export or transfer is subject to mandatory licensing under the statutory **"Catch-All" principle** (Section 13 of the WMD Act, 2005) if:
+- The exporter is notified by customs or DGFT that the goods may be intended for use in WMD development or delivery systems.
+- The exporter has reasonable grounds to suspect that the final recipient will divert the products to prohibited military applications or sanctioned entities.
+
+---
+
+## 5. PENALTIES FOR MISCLASSIFICATION, EVASION, AND UNAUTHORIZED TRANSFER
+
+Customs authorities deploy automated Risk Management System (RMS) filters to detect willful misclassification, tariff code manipulation, and disguised dual-use goods. Failure to obtain a SCOMET license or intentional misdeclaration carries severe legal repercussions:
+
+1. **Customs Act, 1962 (Sections 111 & 112)**:
+   - Absolute confiscation of goods attempted to be exported or imported in violation of prohibitions (Section 111(d) / Section 113(d)).
+   - Imposition of personal penalties on directors, customs brokers, and logistics agents up to five times the value of the goods (Section 112 / Section 114).
+2. **Foreign Trade (Development and Regulation) Act, 1992 (Section 11)**:
+   - Suspension or cancellation of the Importer-Exporter Code (IEC).
+   - Fiscal penalty not less than INR 10,000 and up to five times the value of the goods.
+3. **Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005**:
+   - Criminal prosecution with mandatory imprisonment for a term which shall not be less than 5 years, extendable to life imprisonment, along with heavy criminal fines.

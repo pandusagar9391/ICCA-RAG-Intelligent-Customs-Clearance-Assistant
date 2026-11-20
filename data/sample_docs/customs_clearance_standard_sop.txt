@@ -1,0 +1,110 @@
+# STANDARD OPERATING PROCEDURE (SOP): CUSTOMS CLEARANCE OF IMPORTED CARGO
+
+## 1. PURPOSE AND APPLICABILITY
+This Standard Operating Procedure (SOP) outlines the end-to-end lifecycle for customs clearance of imported commercial consignments across maritime ports, air cargo complexes, and Inland Container Depots (ICD). It details the regulatory steps from advance manifest filing to final Out-of-Charge (OOC) issuance pursuant to the Customs Act, 1962 and Electronic Data Interchange (EDI) regulations.
+
+---
+
+## 2. STAGE-BY-STAGE CLEARANCE WORKFLOW
+
+```
+[Carrier: IGM Filing] ──> [Importer: Advance BOE on ICEGATE] ──> [RMS Automated Risk Assessment]
+                                                                          │
+                        ┌─────────────────────────────────────────────────┴───────────────────────────────────────┐
+                        ▼                                                                                         ▼
+             [Facilitated: Green Channel]                                                              [Selected for Assessment/Exam]
+                        │                                                                                         │
+                        │                                                                           [Appraising Officer Scrutiny]
+                        │                                                                           (Document Check / Valuation / Lab)
+                        │                                                                                         │
+                        └─────────────────────────────────┬───────────────────────────────────────────────────────┘
+                                                          ▼
+                                            [Electronic Duty Payment via ICEGATE]
+                                                          │
+                                                          ▼
+                                            [Docks Physical Cargo Examination]
+                                            (First Check / Second Check / Inspection)
+                                                          │
+                                                          ▼
+                                            [Out of Charge (OOC) Issuance]
+                                                          │
+                                                          ▼
+                                            [Port Custodian Gate Pass & Cargo Release]
+```
+
+---
+
+## 3. DETAILED PROCEDURAL STAGES
+
+### STAGE 1: CARRIER ARRIVAL MANIFEST (IGM)
+1. **Filing of Import General Manifest (IGM)**:
+   - Shipping lines or airlines must electronically submit the IGM/ACM to Customs prior to vessel arrival or aircraft touchdown under Section 30 of the Customs Act.
+   - The IGM details vessel call sign, voyage number, master bill of lading (MBL) numbers, container numbers, seal numbers, gross cargo weight, and consignee name.
+2. **IGM Inward Entry**: Upon berthing, customs customs boarding officers grant "Entry Inward" to the vessel, enabling unloading under custodian supervision.
+
+---
+
+### STAGE 2: ADVANCE BILL OF ENTRY (BOE) FILING
+1. **Mandatory Advance Filing**: Under Section 46 of the Customs Act, the importer or customs broker must file an Advance Bill of Entry on or before the end of the day preceding the expected date of vessel arrival at the port.
+2. **ICEGATE Digital Submission**:
+   - The electronic declaration is uploaded via ICEGATE (Indian Customs Electronic Gateway) in standardized XML/flat file format.
+   - Accompanying documents are uploaded onto **e-SANCHIT** (electronic storage and mobile-friendly document repository) with digital signatures, generating unique IRNs (Image Reference Numbers).
+3. **Bill of Entry Number Generation**: Upon successful validation against the IGM lines, the EDI system issues a unique 7-digit Bill of Entry number and filing date.
+
+---
+
+### STAGE 3: AUTOMATED RISK ASSESSMENT (RMS)
+1. **Risk Management System Evaluation**:
+   - The Central Risk Management System (RMS) automatically evaluates every filed Bill of Entry against dynamic risk parameters, intelligence alerts, country of origin risk, importer compliance profile, and commodity sensitivity.
+2. **Routing Outcomes**:
+   - **Green Channel Facilitation**: Low-risk consignments (often Authorized Economic Operator - AEO tier 2/3 certified entities) are routed directly for duty payment without physical examination or officer assessment.
+   - **Assessment Only**: Targeted for documentary review and valuation scrutiny by the Appraising Group without physical cargo opening.
+   - **Examination Only**: Targeted for physical inspection at the docks while assessment is automated.
+   - **Assessment and Examination**: High-risk consignments subjected to both officer assessment and full container physical opening.
+
+---
+
+### STAGE 4: ASSESSMENT & APPRAISAL
+1. **Group Appraiser Scrutiny**:
+   - Assigned to specialized commodity groups (e.g., Group 5A/5B for machinery, Group 2 for chemicals).
+   - The appraising officer checks correctness of 8-digit HS classification, claimed customs exemptions/notifications, Country of Origin certificates, valuation under Rule 3 to 10 of Customs Valuation Rules, and compulsory regulatory clearances (BIS, FSSAI, SCOMET, WPC).
+2. **Customs Query Management**:
+   - If discrepancies arise regarding valuation, description, or documentation, the officer raises an electronic **Query** on ICEGATE.
+   - The importer must reply through the EDI portal, providing supporting manufacturer catalogs, technical specs, or revised invoices.
+3. **Assessment Completion**: Once satisfied, the Appraising Officer completes assessment, followed by Assistant/Deputy Commissioner counter-signature where value thresholds require approval.
+
+---
+
+### STAGE 5: DUTY PAYMENT
+1. **Duty Challan Generation**:
+   - The EDI system generates an electronic duty challan detailing Basic Customs Duty (BCD), Social Welfare Surcharge (SWS), AIDC, and IGST.
+2. **Payment Deadline**:
+   - Under Section 47(2), customs duty must be paid within the same day of return of the bill of entry for payment (or within next day for non-holidays).
+   - Delay attracts interest at the statutory rate of 15% per annum until actual date of debit.
+3. **Payment Modes**:
+   - E-payment via ICEGATE payment gateway through corporate net banking or electronic duty credit ledger (RoDTEP/RoSCTL scrips).
+
+---
+
+### STAGE 6: DOCK EXAMINATION & PHYSICAL INSPECTION
+1. **Registration at Shed/CFS**:
+   - The container or LCL cargo is located at the Container Freight Station (CFS) or port dock shed. The customs broker registers the BOE with the dock examination shed.
+2. **Inspection Orders Execution**:
+   - **First Check Assessment**: Conducted prior to assessment to ascertain exact goods composition (mandatory for second-hand machinery, damaged cargo, or ambiguous chemical formulations).
+   - **Second Check Examination**: Standard post-duty inspection. Shed officers inspect container seal integrity, verify package counts, match serial numbers against packing lists, and conduct visual examination (e.g., 5%, 10%, or 100% opening as prescribed by RMS instructions).
+3. **Sampling**: Where CRCL testing is required, representative samples are drawn and sealed in duplicate in the presence of customs officers and trade representatives.
+4. **Dock Examination Report**: The examining officer enters the physical inspection report directly into the EDI terminal.
+
+---
+
+### STAGE 7: OUT-OF-CHARGE (OOC) AND CARGO RELEASE
+1. **Grant of Out-of-Charge (OOC)**:
+   - The Appraising Dock Officer / Superintendent verifies that:
+     * Full duty and interest (if any) are debited.
+     * All statutory NOCs (BIS, MoEFCC, CRCL, Plant Quarantine) are electronically approved.
+     * Dock examination report confirms conformity with declaration.
+   - The officer triggers the electronic **Out-of-Charge (OOC)** order under Section 47 of the Customs Act.
+2. **Custodian Release**:
+   - The port custodian (Port Trust or private CFS terminal) validates electronic OOC directly through the ICEGATE-PCS interface.
+   - Terminal handling charges (THC), container detention, and demurrage are settled by the consignee.
+   - The custodian issues the **Gate Pass**, authorizing truck loading and exit from the port customs security boundary.
